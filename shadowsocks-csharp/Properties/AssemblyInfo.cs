@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过下列属性集
 // 控制。更改这些属性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle(UpdateChecker.Name)]
+[assembly: AssemblyTitle("ALLSAFEE")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct(UpdateChecker.Name)]
-[assembly: AssemblyCopyright(UpdateChecker.Copyright)]
+[assembly: AssemblyProduct("ALLSAFEE")]
+[assembly: AssemblyCopyright("4.2.0.6")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
